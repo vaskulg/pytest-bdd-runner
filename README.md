@@ -1,2 +1,2 @@
 # pytest-bdd-runner
-IDIA IntelliJ and PyCharm plugin to run pytest-bdd scenarios
+IDEA IntelliJ and PyCharm plugin to run pytest-bdd scenarios
